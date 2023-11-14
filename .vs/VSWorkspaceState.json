@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\SchoolSol",
+    "\\SchoolSol\\PoliSchool",
+    "\\SchoolSol\\PoliSchool\\PoliSchool.DAL",
+    "\\SchoolSol\\PoliSchool\\PoliSchool.Web"
   ],
+  "SelectedNode": "\\SchoolSol\\PoliSchool\\PoliSchool.DAL\\Class1.cs",
   "PreviewInSolutionExplorer": false
 }
